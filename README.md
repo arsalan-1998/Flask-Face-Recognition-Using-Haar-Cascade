@@ -1,1 +1,2 @@
-# Flask-Face-Recognition-Using-Haar-Cascade
+# face-recognition
+face recognition using ML
